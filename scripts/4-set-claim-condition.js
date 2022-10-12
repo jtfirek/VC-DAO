@@ -21,7 +21,7 @@ const editionDrop = await sdk.getEditionDrop("0xd7aF353FEe1A332f34382539Fb1ae816
       waitInSeconds: MaxUint256,
     }]
     // 
-    await editionDrop.claimConditions.set("0", claimConditions); 
+    await editionDrop.claimConditions.set("0", claimConditions);  // interacts with our contract on chain to adjust the conditions
     console.log("✅ Successfully set claim condition!");
   } catch (error) {
     console.error("Failed to set claim condition", error);
