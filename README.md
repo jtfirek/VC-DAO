@@ -16,6 +16,6 @@ Members our this DAO can contribute etheruem to the community treasurary in exch
 
 ✅ deployed a ERC-1155 NFT people can mint to join the Venture Capital DAO.
 
-✅ deployed your own governance contract + treasury.
+✅ deployed a governance contract + treasury to store the DAO's funding automate voting.
 
 ✅ built a dapp that lets people connect their wallet (GoerliEth testnet), mint their Membership NFT for Electronic Capital, see a DAO Dashboard where they can see other members of the VC + actually vote on proposals like future investments that are executed directly by your governance contract.
