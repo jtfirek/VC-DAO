@@ -7,8 +7,8 @@ Members our this DAO can contribute etheruem to the community treasurary in exch
 
 
 ### **How to Run**
-1. Run `npm install` at the root of your directory
-2. Run `npm start` to start the project
+1. Run `npm install` at the root directory
+2. Run `npm start` to launch the DAO on local host
 
 
 ### **Technical Details**
